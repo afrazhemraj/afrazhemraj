@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Innovative web and gen AI applications**
 
-- 🤝 I’m looking for **Winter and Summer 2024 Internships**
+- 🤝 I’m looking for **Embedded Software/ Robotics Roles**
 
 - 👨‍💻 See my portfolio [here!](https://afrazhemraj.github.io/reactPortfolio/)
 
 - 💬 Ask me about **Anything! I love Basketball 🏀**
 
-- 📫 Reach me at **a3hemraj@uwaterloo.ca**
+- 📫 Reach me at **afrazhemraj@gmail.com**
 
 - ⚡ Fun fact **I can juggle**
 
