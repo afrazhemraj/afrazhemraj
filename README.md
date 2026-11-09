@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afraz Hemraj</h1>
-<h3 align="center">🖥️ Software Engineer @ RBC 🤖 Mechatronics Engineering @ UWaterloo</h3>
+<h3 align="center">🖥️ Co-founder & CTO @ Canopy 🤖 Mechatronics Engineering 2025 @ UWaterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrazhemraj&label=Profile%20views&color=32a895&style=flat" alt="afrazhemraj" /> </p>
 
-- 🔭 I've worked at **H2Analytics, Loopio**
+- 🔭 I've worked at **RBC, H2Analytics, Loopio**
 
 - 📝 See my resume [here!](https://drive.google.com/file/d/19HP_BA75XRenLc7SxjTimxjYdAV1mZus/view?usp=sharing)
 
